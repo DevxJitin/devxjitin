@@ -198,11 +198,11 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
 </h1>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmkit](https://github.com/devXjitin/autourgos-llmkit)<br>
-2. ⬆️ Pushed undefined commit(s) to [devXjitin/VoxAgent](https://github.com/devXjitin/VoxAgent)<br>
-3. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmagentkit](https://github.com/devXjitin/autourgos-llmagentkit)<br>
+1. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Assignment-1](https://github.com/devXjitin/Deep-Learning-Assignment-1)<br>
+2. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmkit](https://github.com/devXjitin/autourgos-llmkit)<br>
+3. ⬆️ Pushed undefined commit(s) to [devXjitin/VoxAgent](https://github.com/devXjitin/VoxAgent)<br>
 4. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmagentkit](https://github.com/devXjitin/autourgos-llmagentkit)<br>
-5. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-core](https://github.com/devXjitin/autourgos-core)<br>
+5. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-llmagentkit](https://github.com/devXjitin/autourgos-llmagentkit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
