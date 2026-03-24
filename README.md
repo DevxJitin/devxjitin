@@ -202,7 +202,7 @@ Late-night debugging sessions powered by coffee and curiosity. Supported by some
 2. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-google-modelkit](https://github.com/devXjitin/autourgos-google-modelkit)<br>
 3. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-google-modelkit](https://github.com/devXjitin/autourgos-google-modelkit)<br>
 4. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-google-modelkit](https://github.com/devXjitin/autourgos-google-modelkit)<br>
-5. ⬆️ Pushed undefined commit(s) to [devXjitin/Deep-Learning-Assignment-1](https://github.com/devXjitin/Deep-Learning-Assignment-1)<br>
+5. ⬆️ Pushed undefined commit(s) to [devXjitin/autourgos-google-modelkit](https://github.com/devXjitin/autourgos-google-modelkit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align="center">
